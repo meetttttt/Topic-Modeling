@@ -18,4 +18,7 @@
 ```
 pip install -r requirements.txt
 ```
-
+# Run Topic Modeling
+```
+streamlit run main.py
+```
