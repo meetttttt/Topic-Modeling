@@ -1,5 +1,3 @@
-# Topic-Modeling
-
 ## What is Topic Modeling?
 > Topic models can help to organize and offer insights for us to understand large collections of unstructured text bodies. Originally developed as a text-mining tool, topic models have been used to detect instructive structures in data such as genetic information, images, and networks.
 
@@ -22,3 +20,6 @@ pip install -r requirements.txt
 ```
 streamlit run main.py
 ```
+
+
+https://user-images.githubusercontent.com/74391584/168473934-694f9cb2-a360-4cb3-a0bc-657e6a31ae98.mp4
