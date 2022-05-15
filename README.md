@@ -15,5 +15,7 @@
 
 # Get Started:
 > first install requirments
-> 'pip install -r requirements.txt'
+```
+pip install -r requirements.txt
+```
 
